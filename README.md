@@ -8,5 +8,5 @@ Tools & Skills
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
-    <img src="data:image/svg+xml;utf8,%3Csvg xmlns='http://w3.org' viewBox='0 0 128 128'%3E%3Crect width='128' height='128' rx='12' fill='%232B579A'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' fill='%23FFFFFF' font-family='monospace, sans-serif' font-weight='bold' font-size='34'%3Ex86_64%3C/text%3E%3C/svg%3E"
+  <img src="https://shields.io" alt="x86_64 assembly" height="40"/>
 </div>
